@@ -2,6 +2,7 @@
 Really simple but useful tool to batch convert all the images inside a folder to .tx inside the windows explorer. [MakeTX MAN Page](https://www.mankier.com/1/maketx).
 
 ## How to
+![Tool GUI](https://github.com/carlosjtacon/maketx_tool_batch_win/raw/master/sendTo.png)
 1. _Stop working on windows. If you won't then go to step 2_
 2. You will need to install the maketx.exe command line tool from [OpenImageIO](https://github.com/OpenImageIO/oiio/).
 3. Replace needed paths to your own:
